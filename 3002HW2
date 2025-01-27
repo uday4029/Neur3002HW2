@@ -1,0 +1,58 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "328ab5e0-4b26-4d7c-9a0a-49142e8f7ead",
+   "metadata": {},
+   "source": [
+    "# HW 2 Project Part II\n",
+    "#### <u>Group 8: Annaston Evers, Juliette Vasquez, Madison Gaines, Mrityunjay Sivakumar, Shirley Lin, Uday Thaker, Victor Irby<u>\n",
+    "##### *An IF model is also known as an **integrate-and-fire model** that represents a neuron as an electrical circuit.*\n",
+    "##### **It depicts how the circuit receives incoming signals overtime until a threshold is reached to fire and reset. This is to simulate the production of an action potential in neurons.**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "23712737-842e-4d71-a4e3-e93d997e1a56",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fd2905f0-0871-46f3-a9bd-41a877843c07",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "311f7331-d120-42c7-a5b2-bad0de36e498",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
